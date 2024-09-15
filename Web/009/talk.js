@@ -9,7 +9,7 @@ $(function() {
         });
     });
     $('#no').click(function(event) {
-        modal('明人不说暗话！', A);
+        modal('明人不说暗话！！！', A);
     });
 });
 
