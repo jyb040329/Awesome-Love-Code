@@ -1,6 +1,6 @@
 $(function() {
     $('#yes').click(function(event) {
-        modal('我就知道小宝宝一定会愿意~(^_^)', function() {
+        modal('中秋节快乐！~(^_^)', function() {
             $('.page_one').addClass('hide');
             $('.page_two').removeClass('hide');
             // typeWrite();
@@ -22,7 +22,7 @@ function B() {
 }
 
 function C() {
-    modal('请宝宝不要拒绝我嘛~', D);
+    modal('中秋节快乐！~', D);
 }
 
 function D() {
