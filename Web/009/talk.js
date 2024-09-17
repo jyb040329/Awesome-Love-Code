@@ -22,7 +22,7 @@ function B() {
 }
 
 function C() {
-    modal('中秋节快乐！~', D);
+    modal(' 生日快乐！(郭总)~', D);
 }
 
 function D() {
