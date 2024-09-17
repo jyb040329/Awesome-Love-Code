@@ -14,7 +14,7 @@ $(function() {
 });
 
 function A() {
-    modal('中秋节快乐！', B);
+    modal(' 生日快乐！(郭总)！', B);
 }
 
 function B() {
