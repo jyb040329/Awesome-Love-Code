@@ -1,6 +1,6 @@
 $(function() {
     $('#yes').click(function(event) {
-        modal('中秋节快乐！~(^_^)', function() {
+        modal(' 生日快乐！(郭总)~(^_^)', function() {
             $('.page_one').addClass('hide');
             $('.page_two').removeClass('hide');
             // typeWrite();
