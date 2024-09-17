@@ -1,6 +1,6 @@
 $(function() {
     $('#yes').click(function(event) {
-        modal('大家中秋节快乐！~(^_^)', function() {
+        modal('在你永远与春天接壤的梦幻里。 祝你：心想事成幸福快乐!生日快乐!~(^_^)', function() {
             $('.page_one').addClass('hide');
             $('.page_two').removeClass('hide');
             // typeWrite();
