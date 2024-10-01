@@ -24,7 +24,7 @@ var S = {
     if (i !== -1) {
       S.UI.simulate(decodeURI(action).substring(i + 3));
     } else {
-      S.UI.simulate('|#countdown 3||郭组长|祝你|生日快乐！|❤|#rectangle|');
+      S.UI.simulate('|#countdown 3||赵欣|祝你|国庆节快乐！|❤|#rectangle|');
     }
 
     S.Drawing.loop(function () {
