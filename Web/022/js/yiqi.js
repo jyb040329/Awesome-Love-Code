@@ -21,7 +21,7 @@ window.onload=function(){
 	  }else if(Dianji==6){
 		   		alert("我愿意用自己的心，好好的陪着你，爱着你。");
 	  }else if(Dianji==7){
-		   		alert("你考虑一下呗");
+		   		alert("你考虑一下呗，原谅我！");
 		  		Dianji=1;
 	  }
 
