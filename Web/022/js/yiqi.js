@@ -27,7 +27,7 @@ window.onload=function(){
 
 	}
 	hao.onclick=function(){
-		alert("❤❤❤ 终于同意了，我爱你 ❤❤❤");
+		alert("❤❤❤ 我不能没有你呀，赵欣姐姐 ❤❤❤");
 	}
 	
 
